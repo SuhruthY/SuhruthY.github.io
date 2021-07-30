@@ -1,3 +1,7 @@
+---
+title: More About Me
+layout: page
+---
 <h1 align="center">Hi 👋, I'm Suhruth Yambakam</h1>
 <h3 align="center"> A Data Science Enthusiast </h3>
 
@@ -45,5 +49,3 @@
 [1]: https://suhruthy.github.io/TheSocialMediaAnalytics/
 [2]: https://suhruthy.github.io/SuhruthY/project
 [3]: https://suhruthy.github.io/SuhruthY/blog
-
-

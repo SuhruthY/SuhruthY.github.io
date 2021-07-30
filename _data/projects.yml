@@ -1,0 +1,23 @@
+- name: Hotel Classififcation
+  link: https://public.tableau.com/views/travelNtourismDB/HotelClassificationinIndia?:language=en&:display_count=y&:origin=viz_share_link
+  image: https://images.pexels.com/photos/159888/pexels-photo-159888.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+  description: Creating an interactive dashboard using the power of Tableau, a Data Visualization Tool.
+
+- name: Social Media Analytics
+  link: https://suhruthy.github.io/TheSocialMediaAnalytics/
+  image: https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+  description: Gathering and analyzing data from social networks such as Twitter, Youtube, GitHub, etc.
+
+#- name: AI vs ML
+#  link: https://suhruthy.github.io/AIvsML/
+#  image: https://images.pexels.com/photos/4604607/pexels-photo-4604607.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940g
+#  description: A dive deep into the AI and ML world and mastering the fundamentals.
+
+#- name: Fourth Project
+#  link:
+#  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+#  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?
+#- name: Fifth Project
+#  link:
+#  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+#  description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas adipisci tempore illo accusantium consequatur doloremque dignissimos quo, maxime eius cum enim recusandae qui, delectus ea autem architecto? Velit natus, tempora, quaerat voluptates consectetur magnam aliquid veritatis cumque tempore ipsam delectus eveniet distinctio hic quod reiciendis excepturi beatae doloribus, recusandae ex sed sapiente aliquam deleniti! Quis commodi culpa doloremque quaerat rem natus! Vero ipsam expedita id at quidem. In sit voluptatibus error cum? Minima sunt porro, architecto natus accusantium earum rerum voluptate recusandae fugit, error consequatur, quibusdam dolore quod minus culpa ipsa laudantium odit distinctio exercitationem dolorum. Sunt iste cumque a quae reprehenderit sed dolorum, culpa hic dolores saepe asperiores illum consectetur vitae tenetur dolorem voluptatum totam in repellat voluptatibus laudantium deleniti quasi. Adipisci animi cupiditate eligendi optio nemo accusantium sed quo expedita modi dolor autem atque natus, non excepturi. Eaque inventore quis aperiam vel quae dicta tenetur, placeat facilis, natus dignissimos molestias quidem dolor ad voluptate nam harum maxime. Commodi illum esse iste eaque, saepe praesentium, vero adipisci necessitatibus tenetur maiores sit voluptate eos facere doloribus. Explicabo neque quibusdam, sint nihil reprehenderit alias asperiores aperiam rem voluptas quas, in qui odio quos similique at. Illo voluptas temporibus enim laudantium quas?

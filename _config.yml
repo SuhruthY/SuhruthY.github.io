@@ -1,0 +1,103 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: 
+
+# Title of the Site
+title: WhY
+# Description of the Site
+description: A Data Science Enthusiast
+# URL of Image of the Site
+site-image: /assets/images/logo.png
+# Keywords of the Site
+site-keywords: Site, Template, Theme
+# URL for the Image of custom Favicon
+favicon-url:
+
+# custom title description
+title-desc: Who's Yambakam - a deep dive into my external self
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: suhruthyambakam822001@gmail.com
+facebook_username: SuhruthY
+twitter_username: 821Suhruth
+instagram_username:
+linkedin_username: suhruthy
+github_username:  SuhruthY
+youtube_channel_id:
+reddit_username: 3D_Soul
+behance_username:
+dribbble_username:
+spotify_username:
+
+# Google Analytics
+google-analytics: SuhruthY
+
+# Disqus
+disqus-shortname: why-github-blog
+
+# Name of the Author
+author-name: Suhruth Yambakam
+# URL for the Image of the Author
+author-image: https://avatars.githubusercontent.com/u/71488673?v=4
+# 60 Words About the Author
+author-about: I am a 20 year old optimist trying to fit into the world of data science. I will go bananas when I see a delicious food(especially non-veg). I also make 3D character designs, pencil sketches, pen arts, illustractions, logo designs, etc in my liesure. A fitness freak, fascinated about fashion trends.
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://github.com/SuhruthY
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+  - jekyll-seo-tag
+
+highlighter: rouge
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
